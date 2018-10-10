@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 To find a full list of publications on which I am an author, 
-please consult this link: [InspireHEP](24Oct2016_IUHEP).
+please consult this link: [InspireHEP](http://inspirehep.net/search?ln=en&ln=en&p=find+a+MARLEY%2C+D&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0).
 
 ## Relevant Publications
 
