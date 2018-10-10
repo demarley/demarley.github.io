@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Here](/files/CV.pdf) is a pdf of my CV for you to reference!
+[Click here](/files/CV.pdf) to access a pdf of my CV.
