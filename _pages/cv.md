@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Here](https://github.com/demarley/demarley.github.io/files/CV.pdf) is a pdf of my CV for you to reference!
+[Here](/files/CV.pdf) is a pdf of my CV for you to reference!
