@@ -1,10 +1,1 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-[CV](../_data/CV.pdf)
+[Here](../data/CV.pdf) is a pdf of my CV for you to reference!
