@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/17Jun2016_LHCP
 venue: "Lund University"
-date: 2014-02-01
+date: 2016-06-17
 location: "Lund, Sweden"
 ---
 
