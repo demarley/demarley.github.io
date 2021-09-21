@@ -9,12 +9,13 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am a computer vision engineer working at [Stats Perform](https://www.statsperform.com/artificial-intelligence/) in Chicago, IL.
-I maintain and develop the player tracking system for our AutoSTATS product.
-My research is directed towards developing the next generation player tracking system using graph neural networks and computer vision.  
-In addition, I use graph neural networks to improve predictive modeling and further our understanding of team performance.
+I am a senior machine learning scientist at [Intelinair](https://www.intelinair.com/).
+I'm currently responsible for applying computer vision and machine learning to problems in agriculture to enable sustainable farming.
 
-Formerly, I was a high-energy physicist working on the CMS and ATLAS experiments at CERN as a postdoc and graduate student, respectively.
+Formerly, I worked as an AI scientist at [Stats Perform](https://www.statsperform.com/artificial-intelligence/) in Chicago, IL.
+At Stats Perform, I maintained and developed player tracking systems for our AutoSTATS product.
+In addition, I researched new player tracking & event detection systems using graph neural networks and computer vision.  
+Prior to joining Stats Perform, I was a high-energy physicist working on the CMS and ATLAS experiments at CERN as a postdoc and graduate student, respectively.
 I live with my wife and our two dogs in northwest Indiana.
 
 If you're interested, feel free to have a look at my GitHub page 
